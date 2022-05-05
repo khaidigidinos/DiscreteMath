@@ -11,7 +11,8 @@ This is a small project that contains following visualizations and implementatio
   - Download JavaFX SDK from https://gluonhq.com/products/javafx/
 3. Open this project from one of your favourite Java IDE.
 4. Read this document to configure this project correctly (based on your IDE, choose correct document to read): https://openjfx.io/openjfx-docs/
-5. Enjoy!
+5. You can only run programs from /src/BSTAnimation.java, /src/DFS.java, /src/BFS.java and /src/MainCountIslands.java
+6. Enjoy!
 
 ## If you have any difficulties while using this repo
 Plaese create a new issue for me or email me at: khai29012001@gmail.com or nguyenk7@mymail.nku.edu 
